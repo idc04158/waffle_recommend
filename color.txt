@@ -1,4 +1,4 @@
 와대 노랑 #ffd400
-연노랑 #fff2cc
+yes-no연노랑 #fff2cc
 fin_card 연노랑 #ffe066
 와대 파랑 #0000ad
