@@ -7,10 +7,13 @@
   box-sizing: border-box;
   font-family: "sur";
 }
-
-.background {
+body {
   background-color: #ffd400;
-  padding: 50px;
+}
+.background {
+  padding: 30px;
+  width: 100%;
+  height: 100%;
 }
 
 .zero_line {
