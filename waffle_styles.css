@@ -6,6 +6,7 @@
 * {
   box-sizing: border-box;
   font-family: "sur";
+  font-weight: 300;
 }
 body {
   background-color: #ffd400;
