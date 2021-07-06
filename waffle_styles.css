@@ -81,9 +81,16 @@ h2 p{
 /* 마지막페이지 와플이름 */
 .waffle_name{
   text-align: center;
-  font-size: 40px;
+  font-size: 70px;
 }
-
+/* 마지막페이지 참고*/
+.info p{
+  font-size: 20px;
+  text-align: center;
+}
+.info{
+  margin-top: 200px;
+}
 /* 마지막페이지 와플추천 카드div */
 .fin_card{
  margin-bottom: 50px;
